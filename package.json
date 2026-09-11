@@ -1,0 +1,14 @@
+{
+  "name": "distributed-pubsub-broker",
+  "version": "1.0.0",
+  "description": "Distributed pub-sub event broker with partition consumer groups and backpressure streaming in TypeScript.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "author": "shaebaratheon",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
